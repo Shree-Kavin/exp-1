@@ -1,0 +1,7 @@
+Git is a version control system used to track changes in files.
+Git allows developers to manage and maintain different versions of a project.
+The git init command initializes a new Git repository.
+The git add command adds files to the staging area.
+The git commit command saves changes to the repository.
+The git status command displays the current repository status.
+The git log command displays the commit history.
