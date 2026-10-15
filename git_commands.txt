@@ -1,0 +1,13 @@
+Basic Git Commands
+
+Git is a version control system used to manage source code and track changes.
+
+git init - Initializes a new Git repository.
+git add - Adds files to the staging area.
+git commit - Saves changes to the repository.
+git status - Displays the current repository status.
+git log - Displays the commit history.
+git push - Uploads local commits to GitHub.
+git pull - Downloads changes from GitHub.
+
+Git helps developers track changes and collaborate efficiently.
